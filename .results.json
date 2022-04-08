@@ -5,15 +5,15 @@
     "passes": 19,
     "pending": 0,
     "failures": 0,
-    "start": "2022-04-07T20:31:27.944Z",
-    "end": "2022-04-07T20:31:28.359Z",
-    "duration": 415
+    "start": "2022-04-08T06:09:02.438Z",
+    "end": "2022-04-08T06:09:02.950Z",
+    "duration": 512
   },
   "tests": [
     {
       "title": "calls the callback with the element, index, and original array",
       "fullTitle": "index.js forEach calls the callback with the element, index, and original array",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,7 +27,7 @@
     {
       "title": "applies calback to all elements in the new array",
       "fullTitle": "index.js map applies calback to all elements in the new array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "returns true if the callback returns true for the majority of elements",
       "fullTitle": "index.js majority returns true if the callback returns true for the majority of elements",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -90,7 +90,7 @@
     {
       "title": "returns a function",
       "fullTitle": "index.js once returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -111,7 +111,7 @@
     {
       "title": "returns the saved result on subsequent calls",
       "fullTitle": "index.js once returns the saved result on subsequent calls",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "calls the callback with the element, index, and original array",
       "fullTitle": "index.js forEach calls the callback with the element, index, and original array",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -164,7 +164,7 @@
     {
       "title": "applies calback to all elements in the new array",
       "fullTitle": "index.js map applies calback to all elements in the new array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -213,7 +213,7 @@
     {
       "title": "returns true if the callback returns true for the majority of elements",
       "fullTitle": "index.js majority returns true if the callback returns true for the majority of elements",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -227,7 +227,7 @@
     {
       "title": "returns a function",
       "fullTitle": "index.js once returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -248,7 +248,7 @@
     {
       "title": "returns the saved result on subsequent calls",
       "fullTitle": "index.js once returns the saved result on subsequent calls",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
